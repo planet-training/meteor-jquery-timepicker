@@ -1,0 +1,19 @@
+{
+  "name": "meteor-jquery-timepicker",
+  "version": "0.0.0",
+  "homepage": "https://github.com/planet-training/meteor-jquery-timepicker",
+  "authors": [
+    "Dominic Garms <djgarms@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+      "jt.timepicker": "~1.8.1"
+  }
+}
